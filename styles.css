@@ -1,6 +1,15 @@
-* {
+body {
     font-family: monospace;
     background-color: black;
-    color: whitesmoke;
-    margin: 20px;
+    color: azure;
+    margin: 30px;
+}
+.container {
+    display: flex;
+}
+.container div {
+    margin-right: 20px;
+}
+.link {
+    color: powderblue;
 }
