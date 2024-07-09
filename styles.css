@@ -4,11 +4,11 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    background-color: #080808;
+    background-color: #000000;
 }
 body {
     font-family: "jetbrains mono", monospace;
-    color: #c8c8c8;
+    color: #ffffff;
     margin: 24px;
     display: flex;
     flex-direction: column;
@@ -25,7 +25,6 @@ body {
 }
 .quote {
     font-style: italic;
-    font-weight: 200;
     margin-top: 16px;
     font-family: Arial;
 }
@@ -38,7 +37,7 @@ body {
 }
 a {
     text-decoration: none;
-    color: #888888;
+    color: rgba(255, 255, 255, 0.5);
     transition: 300ms;
 }
 a:hover {
