@@ -48,7 +48,7 @@ section {
     padding: 1rem;
     border-bottom: 1px solid var(--secondary-color);
 }
-#welcome-section {
+#bio {
     height: calc(100vh - 3rem);
     display: flex;
     flex-direction: column;
